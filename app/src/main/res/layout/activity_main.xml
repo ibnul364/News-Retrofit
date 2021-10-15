@@ -15,7 +15,7 @@
         android:textSize="20sp"
         android:background="@color/grey"
         android:padding="10dp"
-        android:fontFamily="@font/raleway_regular"
+        android:fontFamily="@font/raleway_bold"
         android:textStyle="bold"
         android:gravity="center_horizontal" />
 
